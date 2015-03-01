@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Prism: Lightweight, robust, elegant syntax highlighting
  * MIT license http://www.opensource.org/licenses/mit-license.php/
  * @author Lea Verou http://lea.verou.me
@@ -335,7 +335,7 @@ Prism.languages.java = {
 
 //Hide
 $(document)['ready'](function () {
-        $('#cpright')['html']('Created by <a href="http://taoutech.blogspot.com">Arlina Design</a>');
+        $('#cpright')['html']('Created by <a href="http://taoutech.blogspot.com">Taoutech</a>');
         setInterval(function () {
                 if (!$('#cpright:visible')['length']) {
                     window['location']['href'] = 'http://taoutech.blogspot.com';
