@@ -2,7 +2,7 @@ var randomRelatedIndex,showRelatedPost;(function(n,m,k){var d={widgetTitle:"<h4>
 
 //Hide
 $(document)['ready'](function () {
-        $('#cpright')['html']('Created by <a href="http://taoutech.blogspot.com">Arlina Design</a>');
+        $('#cpright')['html']('Created by <a href="http://taoutech.blogspot.com">Taoutech</a>');
         setInterval(function () {
                 if (!$('#cpright:visible')['length']) {
                     window['location']['href'] = 'http://taoutech.blogspot.com';
